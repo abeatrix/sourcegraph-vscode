@@ -27,6 +27,7 @@ This extension contributes the following settings:
 
 - `sourcegraph.url`: The Sourcegraph instance to use. Specify your on-premises Sourcegraph instance here, if applicable.
 - `sourcegraph.remoteUrlReplacements`: Object, where each `key` is replaced by `value` in the remote url.
+- `sourcegraph.defaultMasterBranch`: Boolean, to open all files in "master" branch.
 
 ## Questions & Feedback
 
